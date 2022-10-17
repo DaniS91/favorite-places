@@ -1,0 +1,46 @@
+h1 {
+  color: maroon;
+  font-family: sans-serif;
+}
+
+/* this is what a comment looks like */
+
+h2 {
+  text-align:  center;
+  font-weight: bold;
+  color: rgba(84,111,8,255);
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+ul {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+a {
+  color: teal;
+}
+
+body {
+  background-color: rgba(232,217,194,255);
+}
+
+img.nature {
+  border-radius: 15%;
+}
+
+h3.southeast {
+  color: rgba(113,54,27,255);
+}
+
+h3.southwest {
+  color: rgba(40,89,156,255);
+}
+
+h3.northwest {
+  color:rgba(55,92,8,255);
+}
