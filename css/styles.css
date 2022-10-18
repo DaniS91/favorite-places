@@ -6,11 +6,16 @@ h1 {
 /* this is what a comment looks like */
 
 h2 {
+  font-family: sans-serif;
   text-align:  center;
   font-weight: bold;
   color: rgba(84,111,8,255);
+  font-size: 30px;
 }
 
+h3 {
+  font-size: 26px;
+}
 p {
   font-family: sans-serif;
   font-weight: bold;
@@ -30,7 +35,11 @@ body {
 }
 
 img.nature {
-  border-radius: 15%;
+  display: block;
+  border-radius: 10%;
+  width: 400px;
+  height: auto;
+  border-width: 10px;
 }
 
 h3.southeast {
@@ -42,5 +51,11 @@ h3.southwest {
 }
 
 h3.northwest {
-  color:rgba(55,92,8,255);
+  color: rgba(55,92,8,255);
+}
+
+li {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 22px;
 }
