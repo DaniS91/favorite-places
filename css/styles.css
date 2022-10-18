@@ -35,10 +35,9 @@ body {
 }
 
 img.nature {
-  display: block;
   border-radius: 10%;
-  width: 400px;
-  height: auto;
+  width: auto;
+  height: 300px;
   border-width: 10px;
 }
 
